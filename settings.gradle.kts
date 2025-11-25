@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Laba_2"
+rootProject.name = "QuickNotes"
 include(":app")
- 
