@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">БыстрыеЗаметки</string>
+    <string name="notes_list_title">Мои заметки</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="title_hint">Заголовок</string>
+    <string name="content_hint">Содержание</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="no_notes">Заметок пока нет</string>
+    <string name="create_first_note">Создайте первую заметку!</string>
+    <string name="new_note">Новая заметка</string>
+    <string name="edit_note">Редактировать</string>
+    <string name="note_saved">Заметка сохранена</string>
+    <string name="note_updated">Заметка обновлена</string>
+    <string name="note_deleted">Заметка удалена</string>
+    <string name="delete_note">Удалить заметку</string>
+    <string name="delete_confirmation">Вы уверены, что хотите удалить эту заметку?</string>
+    <string name="delete_confirm">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="empty_title">Заголовок не может быть пустым</string>
+    <string name="category">Категория</string>
+    <string name="no_category">Без категории</string>
+    <string name="work">Работа</string>
+    <string name="personal">Личное</string>
+    <string name="ideas">Идеи</string>
+    <string name="shopping">Покупки</string>
+    <string name="other">Другое</string>
+</resources>
